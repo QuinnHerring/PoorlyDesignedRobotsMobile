@@ -5,6 +5,6 @@ Instructions
 
 Controls
 ===============
-Orange Robot:   A/D or Left/Right arrow keys  <br>
-Blue Robot:     W/S or Up/Down arrow keys  <br>
+Orange Robot:   A/D Keys or Left/Right Arrow Keys  <br>
+Blue Robot:     W/S Keys or Up/Down Arrow Keys  <br>
 
