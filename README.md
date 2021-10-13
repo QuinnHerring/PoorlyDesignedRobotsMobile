@@ -18,7 +18,8 @@ Controls
 
 Game Architecture
 ===============
-* Our game uses a 3D grid tile system. Each individual tile keeps track of its surrounding neighbours. 
+* Our game uses a 3D grid tile system. 
+* Each individual tile keeps track of its surrounding neighbours. 
 * There are multiple different tile types:
   * Floor Tile
   * Air Tile
@@ -26,5 +27,7 @@ Game Architecture
   * Button Tile
   * Pressure Plate Tile
   * Translocator Tile
-  * Orange EndZonet Tile
-  * Blue EndZone Tile
+  * Orange End Zone Tile
+  * Blue End Zone Tile
+* All tiles are stored in a TileMap.
+* Game continues looping for each level until both robots are on their corresponding endzone.
