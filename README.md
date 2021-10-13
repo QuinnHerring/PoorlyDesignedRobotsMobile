@@ -5,7 +5,7 @@ Instructions
 ===============
 - Control the orange and blue robots to navigate through the different levels.
 - The orange robot can only move left and right, whereas the blue robot can only move up and down. 
-- To complete a level, each robot needs to reach their corresponding coloured endzone. 
+- To complete a level, each robot needs to be on their corresponding coloured endzone. 
 - Each robot can push eachother or stack upon eachother.
 - Use the Button, Pressure Plate, Translocator, and Bridge Tiles to navigate through the levels.
 
