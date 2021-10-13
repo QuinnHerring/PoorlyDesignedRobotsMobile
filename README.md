@@ -1,9 +1,10 @@
 # PoorlyDesignedRobots
 
-Instructions:
-
-Heading level 1
+Instructions
 ===============
-  Orange Robot:   A/D or Left/Right arrow keys  <br>
-  Blue Robot:     W/S or Up/Down arrow keys  <br>
+
+Controls
+===============
+Orange Robot:   A/D or Left/Right arrow keys  <br>
+Blue Robot:     W/S or Up/Down arrow keys  <br>
 
