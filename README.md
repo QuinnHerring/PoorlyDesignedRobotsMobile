@@ -2,7 +2,7 @@
 
 Instructions:
 
-Controls:
-  Orange Robot:   A/D or Left/Right arrow keys
-  Blue Robot:     W/S or Up/Down arrow keys
+Controls: <br>
+  Orange Robot:   A/D or Left/Right arrow keys  <br>
+  Blue Robot:     W/S or Up/Down arrow keys  <br>
 
