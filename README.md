@@ -33,10 +33,9 @@ Game Architecture
 * Game continues looping for each level until both robots are on their corresponding endzone.
 
 
-**Video Explanation of Code**
-
+**Video Explanation of Code**  
 https://drive.google.com/file/d/1YCtN9fWYV1vb54Oln8eTBcSwheVapHv-/view?usp=sharing 
 
-**Link to Packaged Version of the Game for Windows**
-
-https://drive.google.com/file/d/1QMqEh-yF8HnBTsoceCaMIxuwrqvKepa8/view?usp=sharing 
+**Link to Packaged Version of the game**  
+Windows: https://drive.google.com/file/d/1QMqEh-yF8HnBTsoceCaMIxuwrqvKepa8/view?usp=sharing   
+Mac: https://drive.google.com/file/d/1PIdIhcAcP-7J4nHLGLHAy9iD4wStACs0/view?usp=sharing 
