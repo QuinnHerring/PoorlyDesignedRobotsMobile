@@ -36,3 +36,6 @@ Game Architecture
 **Video Explanation of Code**
 
 https://drive.google.com/file/d/1YCtN9fWYV1vb54Oln8eTBcSwheVapHv-/view?usp=sharing 
+
+**Link to Packaged Version of the Game for Windows**
+https://drive.google.com/file/d/1QMqEh-yF8HnBTsoceCaMIxuwrqvKepa8/view?usp=sharing 
