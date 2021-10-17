@@ -38,7 +38,7 @@ https://drive.google.com/file/d/1YCtN9fWYV1vb54Oln8eTBcSwheVapHv-/view?usp=shari
 
 **Link to Packaged Version of the game**  
 Windows: https://drive.google.com/file/d/1QMqEh-yF8HnBTsoceCaMIxuwrqvKepa8/view?usp=sharing   
-Mac: https://drive.google.com/file/d/1PIdIhcAcP-7J4nHLGLHAy9iD4wStACs0/view?usp=sharing 
+Mac: https://drive.google.com/file/d/13Zes4FXWcatm-Emcr0DxQmNm0B0bTuo2/view
 
 **Gameplay Documentation Video**  
 https://www.youtube.com/watch?v=5j0igiWhkQE 
